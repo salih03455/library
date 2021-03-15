@@ -1,7 +1,7 @@
-import React from 'react'
+import { DatePicker } from 'antd';
 
 export const Button = () => {
   return (
-    <button className="button">Tikla</button>
+    <DatePicker />
   )
 }
