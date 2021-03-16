@@ -1,6 +1,6 @@
 import { DatePicker } from 'antd';
 
-export const Button = () => {
+export const ApsDatePicker = () => {
   return (
     <DatePicker />
   )
